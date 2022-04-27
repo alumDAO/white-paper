@@ -1,3 +1,5 @@
+## Overview
+
 **The U.S. is the world's leading producer of innovation, and university ecosystems are a key contributor.**
 
 Investing in fundamental innovative work helps us to solve life’s most essential problems and better prepares us for the future. However, global research and development (R&D) performance is concentrated in a few countries, with the United States performing the most—$656 billion, or 27% of global R&D in 2019, the most recent year available.<sup>1</sup>
