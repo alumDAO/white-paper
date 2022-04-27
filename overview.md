@@ -1,6 +1,5 @@
 **The U.S. is the world's leading producer of innovation, and university ecosystems are a key contributor.**
 
- \
 Investing in fundamental innovative work helps us to solve life’s most essential problems and better prepares us for the future. However, global research and development (R&D) performance is concentrated in a few countries, with the United States performing the most—$656 billion, or 27% of global R&D in 2019, the most recent year available.<sup>1</sup>
 
 Publication of research in peer-reviewed literature is a primary mechanism for disseminating new knowledge, enabling the use of discoveries for further innovation. U.S. publications are highly impactful, as measured by citations. From 2000 to 2018, the United States contributed nearly twice as many highly cited articles as would be expected given the overall publication output of the United States.<sup>2</sup>
@@ -87,7 +86,7 @@ Here’s how it works:
         * Note: each $ALUM token represents a single vote; users can hold more than one $ALUM, therefore controlling more than one vote; a user can technically hold an infinite number of $ALUM tokens, although there are a finite number of immutable $ALUM tokens
 * If the AlumDAO community votes to proceed, it may seek to pursue a transaction to acquire rights to the IP in question
 * If a commercial entity is created around the IP in question, or a separate commercial transaction is entered into with a third party (such as Alumshares, AngelList, etc) for the rights to said IP, an $ALUM token-supported NFT can be converted into a registered security with an ownership stake in the entity in question
-* Note: The $ALUM tokens intentionally have a finite life of 5 years to ensure the DAO remains decentralized to allow new and fresh ideas. If the $ALUM had infinite life, the DAO would naturally become more centralized over time and ownership and decision making would accrue disproportionally to the early members. \
+* Note: The $ALUM tokens intentionally have a finite life of 5 years to ensure the DAO remains decentralized to allow new and fresh ideas. If the $ALUM had infinite life, the DAO would naturally become more centralized over time and ownership and decision making would accrue disproportionally to the early members. 
 
 
 **This is NOT a security**
